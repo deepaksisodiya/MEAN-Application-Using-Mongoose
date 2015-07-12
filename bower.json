@@ -1,0 +1,19 @@
+{
+  "name": "MEAN_App",
+  "version": "0.0.0",
+  "authors": [
+    "deepak <deepak.sisodiya@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.1",
+    "angular-resource": "~1.4.1"
+  }
+}
